@@ -1,0 +1,900 @@
+{
+  "objectId": "",
+  "pageType": "SLIDE",
+  "pageElements": [
+    {
+      "name": "Shape 0",
+      "size": {
+        "width": {
+          "value": 192,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 81,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 768,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 0,
+          "unit": "PX"
+        }
+      },
+      "order": 242,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {
+          "fillType": "SOLID_FILL",
+          "solidFill": "rgb(51, 51, 51)"
+        },
+        "weight": {
+          "value": 1.3333333333333333,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "SOLID"
+      },
+      "fill": {
+        "fillType": "SOLID_FILL",
+        "solidFill": "rgb(124, 133, 148)"
+      },
+      "shape": {
+        "name": "Shape 0",
+        "pathData": [
+          "M0,0 L192,0 L192,81 L0,81 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": [
+          "M0,0 L193.33333333333334,0 L193.33333333333334,82.33333333333333 L0,82.33333333333333 Z"
+        ]
+      },
+      "boundBox": [
+        0,
+        0,
+        192,
+        81
+      ]
+    },
+    {
+      "name": "Shape 1",
+      "size": {
+        "width": {
+          "value": 192,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 81,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 768,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 81,
+          "unit": "PX"
+        }
+      },
+      "order": 259,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {
+          "fillType": "SOLID_FILL",
+          "solidFill": "rgb(51, 51, 51)"
+        },
+        "weight": {
+          "value": 1.3333333333333333,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "SOLID"
+      },
+      "fill": {
+        "fillType": "SOLID_FILL",
+        "solidFill": "rgb(42, 60, 92)"
+      },
+      "shape": {
+        "name": "Shape 1",
+        "pathData": [
+          "M0,0 L192,0 L192,81 L0,81 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": [
+          "M0,0 L193.33333333333334,0 L193.33333333333334,82.33333333333333 L0,82.33333333333333 Z"
+        ]
+      },
+      "boundBox": [
+        0,
+        0,
+        192,
+        81
+      ]
+    },
+    {
+      "name": "Shape 2",
+      "size": {
+        "width": {
+          "value": 192,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 81,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 768,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 162,
+          "unit": "PX"
+        }
+      },
+      "order": 276,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {
+          "fillType": "SOLID_FILL",
+          "solidFill": "rgb(51, 51, 51)"
+        },
+        "weight": {
+          "value": 1.3333333333333333,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "SOLID"
+      },
+      "fill": {
+        "fillType": "SOLID_FILL",
+        "solidFill": "rgb(22, 37, 63)"
+      },
+      "shape": {
+        "name": "Shape 2",
+        "pathData": [
+          "M0,0 L192,0 L192,81 L0,81 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": [
+          "M0,0 L193.33333333333334,0 L193.33333333333334,82.33333333333333 L0,82.33333333333333 Z"
+        ]
+      },
+      "boundBox": [
+        0,
+        0,
+        192,
+        81
+      ]
+    },
+    {
+      "name": "Shape 3",
+      "size": {
+        "width": {
+          "value": 192,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 54,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 768,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 243,
+          "unit": "PX"
+        }
+      },
+      "order": 293,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {
+          "fillType": "SOLID_FILL",
+          "solidFill": "rgb(51, 51, 51)"
+        },
+        "weight": {
+          "value": 1.3333333333333333,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "SOLID"
+      },
+      "fill": {
+        "fillType": "SOLID_FILL",
+        "solidFill": "rgb(196, 196, 196)"
+      },
+      "shape": {
+        "name": "Shape 3",
+        "pathData": [
+          "M0,0 L192,0 L192,54 L0,54 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": [
+          "M0,0 L193.33333333333334,0 L193.33333333333334,55.333333333333336 L0,55.333333333333336 Z"
+        ]
+      },
+      "boundBox": [
+        0,
+        0,
+        192,
+        54
+      ]
+    },
+    {
+      "name": "Shape 4",
+      "size": {
+        "width": {
+          "value": 192,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 81,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 768,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 297,
+          "unit": "PX"
+        }
+      },
+      "order": 310,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {
+          "fillType": "SOLID_FILL",
+          "solidFill": "rgb(51, 51, 51)"
+        },
+        "weight": {
+          "value": 1.3333333333333333,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "SOLID"
+      },
+      "fill": {
+        "fillType": "SOLID_FILL",
+        "solidFill": "rgb(22, 37, 63)"
+      },
+      "shape": {
+        "name": "Shape 4",
+        "pathData": [
+          "M0,0 L192,0 L192,81 L0,81 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": [
+          "M0,0 L193.33333333333334,0 L193.33333333333334,82.33333333333333 L0,82.33333333333333 Z"
+        ]
+      },
+      "boundBox": [
+        0,
+        0,
+        192,
+        81
+      ]
+    },
+    {
+      "name": "Shape 5",
+      "size": {
+        "width": {
+          "value": 192,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 81,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 768,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 378,
+          "unit": "PX"
+        }
+      },
+      "order": 327,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {
+          "fillType": "SOLID_FILL",
+          "solidFill": "rgb(51, 51, 51)"
+        },
+        "weight": {
+          "value": 1.3333333333333333,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "SOLID"
+      },
+      "fill": {
+        "fillType": "SOLID_FILL",
+        "solidFill": "rgb(42, 60, 92)"
+      },
+      "shape": {
+        "name": "Shape 5",
+        "pathData": [
+          "M0,0 L192,0 L192,81 L0,81 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": [
+          "M0,0 L193.33333333333334,0 L193.33333333333334,82.33333333333333 L0,82.33333333333333 Z"
+        ]
+      },
+      "boundBox": [
+        0,
+        0,
+        192,
+        81
+      ]
+    },
+    {
+      "name": "Shape 6",
+      "size": {
+        "width": {
+          "value": 192,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 81,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 768,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 459,
+          "unit": "PX"
+        }
+      },
+      "order": 344,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {
+          "fillType": "SOLID_FILL",
+          "solidFill": "rgb(51, 51, 51)"
+        },
+        "weight": {
+          "value": 1.3333333333333333,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "SOLID"
+      },
+      "fill": {
+        "fillType": "SOLID_FILL",
+        "solidFill": "rgb(124, 133, 148)"
+      },
+      "shape": {
+        "name": "Shape 6",
+        "pathData": [
+          "M0,0 L192,0 L192,81 L0,81 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": [
+          "M0,0 L193.33333333333334,0 L193.33333333333334,82.33333333333333 L0,82.33333333333333 Z"
+        ]
+      },
+      "boundBox": [
+        0,
+        0,
+        192,
+        81
+      ]
+    },
+    {
+      "name": "Shape 7",
+      "size": {
+        "width": {
+          "value": 96,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 27,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 48,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 54,
+          "unit": "PX"
+        }
+      },
+      "order": 361,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {
+          "fillType": "SOLID_FILL",
+          "solidFill": "rgb(51, 51, 51)"
+        },
+        "weight": {
+          "value": 1.3333333333333333,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "SOLID"
+      },
+      "fill": {
+        "fillType": "SOLID_FILL",
+        "solidFill": "rgb(196, 196, 196)"
+      },
+      "shape": {
+        "name": "Shape 7",
+        "pathData": [
+          "M0,0 L96,0 L96,27 L0,27 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": [
+          "M0,0 L97.33333333333333,0 L97.33333333333333,28.333333333333332 L0,28.333333333333332 Z"
+        ]
+      },
+      "boundBox": [
+        0,
+        0,
+        96,
+        27
+      ]
+    },
+    {
+      "name": "Text 8",
+      "size": {
+        "width": {
+          "value": 720,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 162,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 48,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 162,
+          "unit": "PX"
+        }
+      },
+      "order": 389,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {},
+        "weight": {
+          "value": 0,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "DASH"
+      },
+      "fill": {
+        "fillType": "NO_FILL"
+      },
+      "shape": {
+        "name": "Text 8",
+        "text": {
+          "bodyProperty": {
+            "paddingTop": {
+              "value": 4.8,
+              "unit": "PX"
+            },
+            "paddingBottom": {
+              "value": 4.8,
+              "unit": "PX"
+            },
+            "paddingLeft": {
+              "value": 9.6,
+              "unit": "PX"
+            },
+            "paddingRight": {
+              "value": 9.6,
+              "unit": "PX"
+            },
+            "vertical": null,
+            "wrap": "square",
+            "anchor": "ctr"
+          },
+          "paragraphs": [
+            {
+              "textSpans": [
+                {
+                  "order": 377,
+                  "listMarker": {
+                    "nestLevel": 1,
+                    "bullet": {
+                      "glyph": "",
+                      "bulletStyle": {
+                        "foregroundColor": "rgb(15, 29, 57)",
+                        "marginLeft": 0,
+                        "marginRight": 0,
+                        "bold": true,
+                        "italic": false,
+                        "fontFamily": "Arial",
+                        "fontSize": "rgb(0, 0, 0)",
+                        "baselineOffset": "NONE",
+                        "strikethrough": false,
+                        "horizontalAlign": "left",
+                        "alpha": null
+                      }
+                    }
+                  }
+                },
+                {
+                  "order": 385,
+                  "textRun": {
+                    "content": "Online Lending Applications",
+                    "style": {
+                      "backgroundColor": null,
+                      "foregroundColor": "rgb(15, 29, 57)",
+                      "link": null,
+                      "bold": true,
+                      "italic": false,
+                      "fontFamily": "Arial",
+                      "fontSize": {
+                        "value": 72,
+                        "unit": "PX"
+                      },
+                      "baselineOffset": "NONE",
+                      "horizontalAlign": "left",
+                      "strikethrough": null,
+                      "underline": null,
+                      "alpha": null,
+                      "letterSpacing": {
+                        "value": 0,
+                        "unit": "PERCENTAGE"
+                      },
+                      "lineSpacing": null
+                    }
+                  }
+                },
+                {
+                  "order": 386,
+                  "endParaStyle": {
+                    "blod": false,
+                    "fontSize": {
+                      "value": 72,
+                      "unit": "PX"
+                    },
+                    "backgroundColor": null
+                  }
+                }
+              ],
+              "paragraphProperty": {
+                "lineSpacing": null,
+                "alignment": "START",
+                "spaceBefore": {
+                  "value": 0,
+                  "unit": "PX"
+                },
+                "spaceAfter": null,
+                "indent": {
+                  "value": 0,
+                  "unit": "PX"
+                },
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          ]
+        },
+        "pathData": [
+          "M0,0 L720,0 L720,162 L0,162 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": []
+      },
+      "boundBox": [
+        0,
+        0,
+        720,
+        162
+      ]
+    },
+    {
+      "name": "Shape 9",
+      "size": {
+        "width": {
+          "value": 480,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 54,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 48,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 378,
+          "unit": "PX"
+        }
+      },
+      "order": 406,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {
+          "fillType": "SOLID_FILL",
+          "solidFill": "rgb(51, 51, 51)"
+        },
+        "weight": {
+          "value": 1.3333333333333333,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "SOLID"
+      },
+      "fill": {
+        "fillType": "SOLID_FILL",
+        "solidFill": "rgb(196, 196, 196)"
+      },
+      "shape": {
+        "name": "Shape 9",
+        "pathData": [
+          "M0,0 L480,0 L480,54 L0,54 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": [
+          "M0,0 L481.3333333333333,0 L481.3333333333333,55.333333333333336 L0,55.333333333333336 Z"
+        ]
+      },
+      "boundBox": [
+        0,
+        0,
+        480,
+        54
+      ]
+    },
+    {
+      "name": "Text 10",
+      "size": {
+        "width": {
+          "value": 460.8,
+          "unit": "PX"
+        },
+        "height": {
+          "value": 43.2,
+          "unit": "PX"
+        }
+      },
+      "position": {
+        "x": {
+          "value": 57.6,
+          "unit": "PX"
+        },
+        "y": {
+          "value": 383.4,
+          "unit": "PX"
+        }
+      },
+      "order": 434,
+      "rotate": 0,
+      "flipH": false,
+      "flipV": false,
+      "effects": {},
+      "outline": {
+        "outlineFill": {},
+        "weight": {
+          "value": 0,
+          "unit": "PX"
+        },
+        "dashArray": "0",
+        "dashStyle": "DASH"
+      },
+      "fill": {
+        "fillType": "NO_FILL"
+      },
+      "shape": {
+        "name": "Text 10",
+        "text": {
+          "bodyProperty": {
+            "paddingTop": {
+              "value": 4.8,
+              "unit": "PX"
+            },
+            "paddingBottom": {
+              "value": 4.8,
+              "unit": "PX"
+            },
+            "paddingLeft": {
+              "value": 9.6,
+              "unit": "PX"
+            },
+            "paddingRight": {
+              "value": 9.6,
+              "unit": "PX"
+            },
+            "vertical": null,
+            "wrap": "square",
+            "anchor": "ctr"
+          },
+          "paragraphs": [
+            {
+              "textSpans": [
+                {
+                  "order": 422,
+                  "listMarker": {
+                    "nestLevel": 1,
+                    "bullet": {
+                      "glyph": "",
+                      "bulletStyle": {
+                        "foregroundColor": "rgb(61, 61, 61)",
+                        "marginLeft": 0,
+                        "marginRight": 0,
+                        "bold": false,
+                        "italic": false,
+                        "fontFamily": "Arial",
+                        "fontSize": "rgb(0, 0, 0)",
+                        "baselineOffset": "NONE",
+                        "strikethrough": false,
+                        "horizontalAlign": "left",
+                        "alpha": null
+                      }
+                    }
+                  }
+                },
+                {
+                  "order": 430,
+                  "textRun": {
+                    "content": "Preventing Fall Out",
+                    "style": {
+                      "backgroundColor": null,
+                      "foregroundColor": "rgb(61, 61, 61)",
+                      "link": null,
+                      "bold": false,
+                      "italic": false,
+                      "fontFamily": "Arial",
+                      "fontSize": {
+                        "value": 32,
+                        "unit": "PX"
+                      },
+                      "baselineOffset": "NONE",
+                      "horizontalAlign": "left",
+                      "strikethrough": null,
+                      "underline": null,
+                      "alpha": null,
+                      "letterSpacing": {
+                        "value": 0,
+                        "unit": "PERCENTAGE"
+                      },
+                      "lineSpacing": null
+                    }
+                  }
+                },
+                {
+                  "order": 431,
+                  "endParaStyle": {
+                    "blod": false,
+                    "fontSize": {
+                      "value": 32,
+                      "unit": "PX"
+                    },
+                    "backgroundColor": null
+                  }
+                }
+              ],
+              "paragraphProperty": {
+                "lineSpacing": null,
+                "alignment": "START",
+                "spaceBefore": {
+                  "value": 0,
+                  "unit": "PX"
+                },
+                "spaceAfter": null,
+                "indent": {
+                  "value": 0,
+                  "unit": "PX"
+                },
+                "direction": "LEFT_TO_RIGHT"
+              }
+            }
+          ]
+        },
+        "pathData": [
+          "M0,0 L460.8,0 L460.8,43.2 L0,43.2 Z"
+        ],
+        "shapeType": "rect",
+        "adjustParams": [],
+        "startConnection": null,
+        "endConnection": null,
+        "contentPathData": []
+      },
+      "boundBox": [
+        0,
+        0,
+        460.8,
+        43.2
+      ]
+    }
+  ],
+  "pageProperties": {
+    "pageBackgroundFill": {
+      "fillType": "NO_FILL"
+    }
+  }
+}
