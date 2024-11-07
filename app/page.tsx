@@ -9,7 +9,7 @@ import parse from "pptx-parser";
 export default function PowerPointParser() {
   const [parsedData, setParsedData] = useState(null)
 
-  const handleFileUpload = async (event) => {
+  const handleFileUpload = async (event: any) => {
     const file = event.target.files[0]
     if (file) {
       try {
@@ -23,6 +23,15 @@ export default function PowerPointParser() {
     }
   }
 
+  const copyToClipboard = async (text: any) => {
+    try {
+      await navigator.clipboard.writeText(text)
+      // You could add a toast notification here if you want to show feedback
+    } catch (err) {
+      console.error('Failed to copy text: ', err)
+    }
+  }
+
   const DisplayParsedContent = ({ data }) => {
     if (!data) return null
 
@@ -32,9 +41,12 @@ export default function PowerPointParser() {
         {data.slides.map((slide: any, slideIndex: any) => (
           <Card key={slideIndex} className="mb-4">
             <CardHeader>
-              <CardTitle className='flex flex-row justify-between items-center'>Slide {slideIndex + 1}  <Button>
-                Generate slide
-              </Button></CardTitle>
+              <CardTitle className='flex flex-row justify-between items-center'>
+                Slide {slideIndex + 1}
+                <Button onClick={() => copyToClipboard(JSON.stringify(slide, null, 2))}>
+                  Copy JSON
+                </Button>
+              </CardTitle>
 
             </CardHeader>
             <CardContent>
