@@ -13,7 +13,6 @@ export default function PowerPointParser() {
     const file = event.target.files[0]
     if (file) {
       try {
-        const arrayBuffer = await file.arrayBuffer()
         const result = await parse(file)
         console.log(result)
         setParsedData(result)
@@ -33,7 +32,10 @@ export default function PowerPointParser() {
         {data.slides.map((slide: any, slideIndex: any) => (
           <Card key={slideIndex} className="mb-4">
             <CardHeader>
-              <CardTitle>Slide {slideIndex + 1}</CardTitle>
+              <CardTitle className='flex flex-row justify-between items-center'>Slide {slideIndex + 1}  <Button>
+                Generate slide
+              </Button></CardTitle>
+
             </CardHeader>
             <CardContent>
               {slide.pageElements.map((shape: any, shapeIndex: any) => (
